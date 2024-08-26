@@ -11,5 +11,5 @@ class libro():
         print(f"Titulo: {self.titulo} Autor: {self.autor}")
 
 #aqui es donde rellenamos los datos
-libro1 = libro("Un cartero","Charles","Primera edicion")
+libro1 = libro("No me mires los pechos","Charles","Cuarta edicion")
 libro1.datos()
